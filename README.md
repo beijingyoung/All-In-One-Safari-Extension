@@ -22,11 +22,11 @@
 
 开启终调试菜单，终端录入：
 
-	$ `defaults write com.apple.Safari IncludeInternalDebugMenu 1`
+	$ defaults write com.apple.Safari IncludeInternalDebugMenu 1
 
 关闭终调试菜单，终端录入：
 	
-	$ `defaults write com.apple.Safari IncludeInternalDebugMenu 0`
+	$ defaults write com.apple.Safari IncludeInternalDebugMenu 0
 	
 
 注： 5.1 与 5.2 功能不同。
