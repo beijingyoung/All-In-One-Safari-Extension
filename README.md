@@ -1,7 +1,7 @@
 # Safari 中文插件
 
 ## 1.海词网 Safari 翻译插件(非官方)
-![Safari 英文翻译插件](/EG.png)
+![Safari 英文翻译插件](https://github.com/beijingyoung/All-In-One-Safari-Extension/blob/master/EG.png)
 
 [点此下载](https://raw.github.com/beijingyoung/All-In-One-Safari-Extension/master/EN%20to%20zh-CN%20translate.safariextz) 双击图标安装
 
@@ -31,6 +31,6 @@
 
 注： 5.1 与 5.2 功能不同。
 
-![开启 Safari 隐藏调试菜单](/IncludeInternalDebugMenu.png)
+![开启 Safari 隐藏调试菜单](https://github.com/beijingyoung/All-In-One-Safari-Extension/blob/master/IncludeInternalDebugMenu.png)
 
 5.2 加入 [Safari Omnibar](http://hackemist.com/SafariOmnibar/)
