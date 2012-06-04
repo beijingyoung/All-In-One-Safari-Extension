@@ -34,3 +34,5 @@
 ![开启 Safari 隐藏调试菜单](https://github.com/beijingyoung/All-In-One-Safari-Extension/raw/master/IncludeInternalDebugMenu.png)
 
 5.2 加入 [Safari Omnibar](http://hackemist.com/SafariOmnibar/)
+
+## HTTPS 只是测试不建议使用
