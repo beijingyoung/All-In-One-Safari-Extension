@@ -52,9 +52,10 @@ if (window.top === window) {
   }
 
   function hideStatus() {
-    if (statusBar)
+    if (statusBar) {
       statusBar.className = '';
       statusBar.setAttribute("style", 'position: fixed; left: 0; bottom: 0; z-index: 999999999999999; overflow: hidden; white-space: nowrap; width: auto; margin: 0; padding: .15em; background: -webkit-linear-gradient(top, #FFF 0px, #B0B0B0 1px, #A7A7A7); color: #333; text-shadow: 0 1px 0 #D0D0D0; border: 1px solid #6A6A6A; border-left: none; border-top-right-radius: 3px; font: 12px "Lucida Grande"; opacity: 0; -webkit-transition: opacity 100ms ease-out;');
+    }
   }
   
 }
